@@ -10,7 +10,7 @@
     "build": "webpack"
   },
   "devDependencies": {
-    "electron": "^8.2.3",
+    "electron": "^11.5.0",
     "electron-packager": "^14.2.1",
     "html-webpack-plugin": "^4.2.0"
   }
